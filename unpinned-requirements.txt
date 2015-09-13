@@ -1,0 +1,4 @@
+apache-libcloud
+requests[security]
+attrs
+keyring
